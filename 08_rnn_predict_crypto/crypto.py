@@ -27,7 +27,7 @@ def classify(current, future):
     if float(future) > float(current):
         return 1
     else:
-        return 0120
+        return 0
 
 def preprocess_df(df):
     df = df.drop('future', 1)
