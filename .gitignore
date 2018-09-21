@@ -1,4 +1,5 @@
-02/PetImages/
-02/PetImages/*
+02_keras_cat_dog_classification/PetImages/
+02_keras_cat_dog_classification/PetImages/*
+
 logs/
 *~
